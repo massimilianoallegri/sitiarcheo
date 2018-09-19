@@ -6,7 +6,12 @@
  **/
 
 define('BOT_TOKEN', '668868310:AAHlsvNqzpGReCAvuKKxvCKMZT9EXmkKpho');
-define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
+define('API_URL', 'https://api.telegram.org/bot668868310:AAHlsvNqzpGReCAvuKKxvCKMZT9EXmkKpho');
+/*define('API_URL', 'https://github.com/massimilianoallegri/sitiarcheo/'.BOT_TOKEN.'/');
+
+
+
+
 
 $content = file_get_contents("php://input");
 $update = json_decode($content, true);
