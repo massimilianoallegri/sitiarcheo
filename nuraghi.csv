@@ -1,0 +1,51 @@
+FID,content_id,category,_Comune,_Stato,_Nome,_Localita,_Regione,anchorforweb,validato
+nuraghi.fid--27c679e9_165f0b4ed6e_3f97,NUR6440,10,Semestene,,Nuraghe Loschiri or S?Iscala ?e Pedra,,Meilogu,POINT (8.742897600000008 40.392974),false
+nuraghi.fid--27c679e9_165f0b4ed6e_3f98,NUR4366,10,Villaputzu,,Nuraghe Serbiola,,Sarrabus,POINT (9.627555100000011 39.52968299999999),false
+nuraghi.fid--27c679e9_165f0b4ed6e_3f99,NUR12182,12,Ottana,buono,Nuraghe,,Barbagia,POINT (9.077007575399861 40.24720027273638),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3f9a,NUR11487,10,Guspini,,Nuraghe Nuraci,,Linas,POINT (8.638594999999988 39.55485),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3f9b,NUR2303,10,Villaputzu,,Nuraghe Sant''Aleni,,Sarrabus,POINT (9.56425900000001 39.449507999999994),false
+nuraghi.fid--27c679e9_165f0b4ed6e_3f9c,NUR1723,10,Teulada,,,,Capoterra,POINT (8.65799600000001 38.976245),false
+nuraghi.fid--27c679e9_165f0b4ed6e_3f9d,NUR12245,12,Oniferi,,Nuraghe Munsipuzzone,,Barbagia,POINT (9.17714430463132 40.27535992189184),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3f9e,NUR1086,10,Stintino,,Nuraghe Casteddu,,Nurra,POINT (8.240377000000011 40.831358),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3f9f,NUR11525,12,Arzachena,,Nuraghe Lu nuracu,,Gallura,POINT (9.333342999999992 41.084099999999985),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fa0,NUR11530,10,Arzachena,,Nuraghe Monti Aguisi,,Gallura,POINT (9.423192 41.058502999999995),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fa1,NUR11532,12,Arzachena,,Nuraghe Monti Canaglia,,Gallura,POINT (9.48559099999999 41.069579),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fa2,NUR2274,10,Lei,,Nuraghe Santu Martine,,Marghine,POINT (8.924254000000007 40.31866499999999),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fa3,NUR11592,10,Borore,non visibile,Nuraghe Ludrau,Mura ‘e Pinnas,Marghine,POINT (8.808528999999997 40.21604),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fa4,NUR2164,12,Santu Lussurgiu,diroccato,Nuraghe Sa rocca ’e Zurzia,Pabarile,Montiferru,POINT (8.606406000000012 40.14669500000001),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fa5,NUR6445,10,Milis,,Nuraghe Su Livariu,,Sinis,POINT (8.654026699999998 40.061929),false
+nuraghi.fid--27c679e9_165f0b4ed6e_3fa6,NUR11531,13,Arzachena,,Nuraghe Cascioni,,Gallura,POINT (9.441455000000001 41.06943),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fa7,NUR4981,10,San Vito,,Nuraghe De Muru,,Sarrabus,POINT (9.508630700000008 39.377517),false
+nuraghi.fid--27c679e9_165f0b4ed6e_3fa8,NUR11538,10,Palau,,Nuraghe Luchia,,Gallura,POINT (9.334810999999995 41.13985900000001),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fa9,NUR1240,10,Arzachena,,Nuraghe Li Conchi,,Gallura,POINT (9.405562000000009 41.078691),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3faa,NUR12270,10,Lei,diroccato,Protonuraghe Ozzastros,,Marghine,POINT (8.944638625414466 40.282596679146735),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fab,NUR11587,10,Borore,non visibile,Nuraghe Urpes,Nuraghe Urpes,Marghine,POINT (8.809972000000004 40.219231),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fac,NUR3046,13,Borore,diroccato,Nuraghe Tresnuraghes,Sa Suba Cardia,Marghine,POINT (8.803522299999988 40.200388999999994),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fad,NUR1921,12,Borore,diroccato,Nuraghe Sas Casas,Putzola o Sas Casas,Marghine,POINT (8.802187000000009 40.19454300000002),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fae,NUR1922,12,Aidomaggiore,diroccato,Nuraghe Putzola de Susu,Putzola,Guilcer,POINT (8.799556999999991 40.192364000000005),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3faf,NUR2137,10,Norbello,,Nuraghe Pardu Iscra,,Guilcer,POINT (8.833921999999998 40.157302999999985),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fb0,NUR11641,10,Ala' dei Sardi,,Nuraghe Lattari,,Gallura,POINT (9.333551990371147 40.62884257399544),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fb1,NUR3765,10,Ardara,,Nuraghe Badde Austino,,Montacuto,POINT (8.814162599999994 40.614336000000016),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fb2,NUR1742,10,Ozieri,,,,Montacuto,POINT (8.90429499999999 40.63724899999999),false
+nuraghi.fid--27c679e9_165f0b4ed6e_3fb3,NUR11533,12,Arzachena,,Nuraghe Lu Naracacciu,,Gallura,POINT (9.500436999999993 41.065732),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fb4,NUR2113,10,Magomadas,,Nuraghe Santu Nicola,San Nicola,Planargia,POINT (8.489555000000003 40.264535),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fb5,NUR6347,12,Borore,diroccato,Nuraghe Suerzu,Suerzu,Marghine,POINT (8.802508399999997 40.23473799999999),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fb6,NUR3599,10,Lei,,Nuraghe Pattada,,Marghine,POINT (8.944235000000008 40.27821),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fb7,NUR3413,12,Uri,diroccato,Nuraghe Sanajolo,Su Padru,Coros,POINT (8.502666899999992 40.633692999999994),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fb8,NUR2104,12,Borore,diroccato,Nuraghe Paule Nivazzi,Paule Nivazzi,Marghine,POINT (8.829761000000007 40.204629),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fb9,NUR2567,12,Borore,diroccato,Nuraghe Su Figu,Sa Figu,Marghine,POINT (8.797479199999989 40.193155),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fba,NUR1302,10,Bottidda,,Nuraghe Cherchizzu,,Goceano,POINT (8.961753999999992 40.429776000000004),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fbb,NUR4614,10,Siurgus Donigala,,Nuraghe Su Prasteddu,,Trexenta,POINT (9.170295699999995 39.54802799999999),false
+nuraghi.fid--27c679e9_165f0b4ed6e_3fbc,NUR5358,10,Assolo,,Nuraghe Planu Narbonis,,Alta Marmilla,POINT (8.90169650000001 39.803837999999985),false
+nuraghi.fid--27c679e9_165f0b4ed6e_3fbd,NUR1745,10,Ozieri,,,,Montacuto,POINT (8.939933999999997 40.710296),false
+nuraghi.fid--27c679e9_165f0b4ed6e_3fbe,NUR10069,12,Chiaramonti,non visibile,Concas,Concas,Anglona,POINT (8.831842999999996 40.74234299999997),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fbf,NUR2304,10,Arbus,,N.ghe Peppi Orr,,Linas,POINT (8.478441 39.623391999999996),false
+nuraghi.fid--27c679e9_165f0b4ed6e_3fc0,NUR634,12,Borore,diroccato,Nuraghe s'Istrampu,Bau de Mela,Marghine,POINT (8.772601999999997 40.19576099999999),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fc1,NUR1927,11,Borore,diroccato,Nuraghe Magossula,Sos Porchiles,Marghine,POINT (8.776393 40.19412299999999),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fc2,NUR1845,12,Borore,diroccato,Nuraghe Pischedda,Mura ‘e Pinnas,Marghine,POINT (8.811728 40.216473),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fc3,NUR2106,13,Borore,diroccato,Nuraghe Busazzone o Figu,Mura ’e Pinnas,Marghine,POINT (8.810065999999994 40.21427499999999),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fc4,NUR2189,10,Bolotana,,Nuraghe Prida II,,Marghine,POINT (8.907309000000001 40.36755299999999),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fc5,NUR2468,10,Borore,diroccato,Nuraghe su Fangarzu,,Marghine,POINT (8.810978000000011 40.20268299999999),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fc6,NUR11640,10,Ala' dei Sardi,,Nuraghe Marcheddine,,Gallura,POINT (9.326593080566843 40.6326004823517),true
+nuraghi.fid--27c679e9_165f0b4ed6e_3fc7,NUR4090,10,Mogoro,,Nuraghe Is Carrelis or Monte Itta,,Alta Marmilla,POINT (8.744969700000006 39.682753999999996),false
+nuraghi.fid--27c679e9_165f0b4ed6e_3fc8,NUR5356,10,Nuragus,,Nuraghe Turri,,Sarcidano,POINT (9.045393099999997 39.77037),false
